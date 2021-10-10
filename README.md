@@ -1,6 +1,18 @@
 # TodoAppAngular
 
+Demo: https://boring-thompson-6ff531.netlify.app/tasks
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
+
+## Issues
+1. Random user id is not generating
+2. Default home routing is not open
+3. No pending tag for exixting todos
+4. Add a done tag to todos to check whether the task is done or not
+5. Remove pending checkbox  and make all todos pending default
+6. Enhance UI
+
+
 
 ## Development server
 
